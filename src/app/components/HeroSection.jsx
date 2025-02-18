@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          This is Shrey Yadav presentin you my personal portfolio.
+          This is Shrey Yadav presenting you my personal portfolio.
           </p>
           <div>
             <Link
